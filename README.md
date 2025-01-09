@@ -19,7 +19,7 @@ The trained model parameters will be released soon.
 requirement.txt
 ### File description
 1) Trained model parameters file: `./data/model/model.pth`
-2) Input file: The `./data/cate_feat.csv` stores the input categorical variables and `./data/cont_feat.csv` stores the input continuous variables, which meet the input requirements of AMFormer model. The provided data is synthetic, but you can use data from the real world.
+2) Input file: The `./data/cate_feat.csv` stores the categorical input variables and `./data/cont_feat.csv` stores the continuous input variables, which meet the input requirements of AMFormer model. The provided data is synthetic, but you can use data from the real world.
 
 ### Testing
 To run the code on the demo dataset, run:

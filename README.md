@@ -11,7 +11,7 @@ By integrating BCs and CIs showing genetic causal effects on FI, a deep-learning
 
 The code was built based on [AMFormer](https://github.com/aigc-apps/AMFormer/). Thanks a lot for their code sharing!
 
-The trained model parameters can be downloaded from https://drive.google.com/file/d/1t5a8IMKolmHNc4XL66wS_tUr1WnkqDha/view?usp=sharing and put it under the directory './data/model/'.
+The trained model parameters can be downloaded from model_path.txt and placed under the directory './data/model/'.
 
 ### Python version
 3.7.9
